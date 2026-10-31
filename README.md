@@ -4,13 +4,13 @@
 
 ## Windows-Download
 
-[**LinguaLoop für Windows herunterladen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/latest/download/LinguaLoop-Setup-v1.2.0.exe)
+[**GitHub-Releases öffnen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases)
 
-Der Download ist verfügbar, sobald der Entwurf **LinguaLoop 1.2.0** veröffentlicht wurde. Im Setup ist auch der Deinstaller enthalten; es werden Verknüpfungen zum Starten und Deinstallieren angelegt.
+Dort findest du den Installer, sobald Version 1.2.0 veröffentlicht und die Setup-Datei als Release-Asset angehängt ist. Vorher kann GitHub noch keine EXE herunterladen.
 
 ## Version 1.2.0
 
-- Modernisiertes Design mit Petrol- und Navy-Farben, runden Karten und runden Schaltflächen.
+- Modernisiertes Design mit Petrol- und Navy-Farben, runden Karten und Schaltflächen.
 - Der Tab **Presets** zeigt vorerst „Kommt bald“.
 - Neuer Tab **Design** mit „Kommt bald“.
 - Vokabeln und Lernfortschritt bleiben lokal auf dem PC.
@@ -19,4 +19,4 @@ Der Download ist verfügbar, sobald der Entwurf **LinguaLoop 1.2.0** veröffentl
 
 Die App prüft beim Start und – falls im Setup aktiviert – beim Windows-Start auf neue Versionen.
 
-Zum Veröffentlichen müssen Installer und Update-ZIP als Assets am GitHub-Release hängen. Die kurze Checkliste steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
+Zum Veröffentlichen müssen Installer und Update-ZIP am GitHub-Release hängen. Die Checkliste steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
