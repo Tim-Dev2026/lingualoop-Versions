@@ -2,11 +2,13 @@
 
 **Französisch-Vokabeln lernen – mit eigenen Wortlisten und lokalem Lernstand.**
 
-## Windows-Download
+## Windows installieren
 
-[**GitHub-Releases öffnen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases)
+[![Windows-Installer herunterladen](https://img.shields.io/badge/Windows-Installer_herunterladen-168777?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/download/v1.2.0/LinguaLoop-Setup-v1.2.0.exe)
 
-Dort findest du den Installer, sobald Version 1.2.0 veröffentlicht und die Setup-Datei als Release-Asset angehängt ist. Vorher kann GitHub noch keine EXE herunterladen.
+Der Button lädt die **Setup-EXE für alles** herunter. Starte die Datei anschließend und klicke im Setup auf **Installieren**. App, französische Offline-Stimme, Updater und Deinstaller sind darin enthalten.
+
+**Hinweis:** Der Button funktioniert, sobald die Setup-EXE am Release v1.2.0 angehängt und der Entwurf veröffentlicht ist. Die Release-Dateien liegen im lokalen Ordner `release-assets`; die Schritte stehen in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
 
 ## Version 1.2.0
 
@@ -17,6 +19,4 @@ Dort findest du den Installer, sobald Version 1.2.0 veröffentlicht und die Setu
 
 ## Updates
 
-Die App prüft beim Start und – falls im Setup aktiviert – beim Windows-Start auf neue Versionen.
-
-Zum Veröffentlichen müssen Installer und Update-ZIP am GitHub-Release hängen. Die Checkliste steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
+Das separate ZIP ist nur für den automatischen Updater bei späteren Versionen.
