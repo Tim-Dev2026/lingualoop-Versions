@@ -4,24 +4,19 @@
 
 ## Windows-Download
 
-[**LinguaLoop für Windows herunterladen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/latest/download/LinguaLoop-Setup-v1.1.0.exe)
+[**LinguaLoop für Windows herunterladen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/latest/download/LinguaLoop-Setup-v1.2.0.exe)
 
-Die Version 1.1.0 wird gerade vorbereitet. Der Download steht bereit, sobald der Release veröffentlicht ist. Der Installer legt Verknüpfungen für LinguaLoop und den Deinstaller an.
+Der Download ist verfügbar, sobald der Entwurf **LinguaLoop 1.2.0** veröffentlicht wurde. Im Setup ist auch der Deinstaller enthalten; es werden Verknüpfungen zum Starten und Deinstallieren angelegt.
 
-## Was ist neu in 1.1.0?
+## Version 1.2.0
 
-- Gemeinsame Vokabel-Presets im eigenen Tab. Jeder kopiert nur die Sets, die er selbst lernen möchte.
-- Neue Installationen starten mit einer leeren persönlichen Vokabelliste.
-- Vokabeln und Lernstand bleiben lokal auf dem PC.
+- Modernisiertes Design mit Petrol- und Navy-Farben, runden Karten und runden Schaltflächen.
+- Der Tab **Presets** zeigt vorerst „Kommt bald“.
+- Neuer Tab **Design** mit „Kommt bald“.
+- Vokabeln und Lernfortschritt bleiben lokal auf dem PC.
 
 ## Updates
 
-Die App prüft beim Start und – wenn im Setup aktiviert – beim Windows-Start auf neue Versionen. Das Update-ZIP ist als Release-Datei erforderlich.
+Die App prüft beim Start und – falls im Setup aktiviert – beim Windows-Start auf neue Versionen.
 
-## Veröffentlichung
-
-Die zwei Dateien müssen am Release `v1.1.0` angehängt werden:
-- `LinguaLoop-Setup-v1.1.0.exe` (Windows-Installer)
-- `LinguaLoop-v1.1.0-win-x64.zip` (Updater-Paket)
-
-Die Anleitung dazu steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
+Zum Veröffentlichen müssen Installer und Update-ZIP als Assets am GitHub-Release hängen. Die kurze Checkliste steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).

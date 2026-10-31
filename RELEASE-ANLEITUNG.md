@@ -1,16 +1,16 @@
-# Release v1.1.0 fertigstellen
+# Release v1.2.0 veröffentlichen
 
-Die Release-Version ist auf GitHub als Entwurf angelegt. Hänge vor dem Veröffentlichen beide Dateien an:
+Der GitHub-Entwurf **LinguaLoop 1.2.0** ist vorbereitet. Vor dem Veröffentlichen müssen zwei Dateien angehängt werden:
 
-1. Öffne **Releases** im Repository und bearbeite den Entwurf **LinguaLoop 1.1.0**.
-2. Lade aus dem lokalen Ordner `release-assets` diese beiden Dateien hoch:
-   - `LinguaLoop-Setup-v1.1.0.exe`
-   - `LinguaLoop-v1.1.0-win-x64.zip`
-3. Prüfe, dass beide Dateien unter **Assets** stehen.
-4. Klicke **Publish release**.
+- `LinguaLoop-Setup-v1.2.0.exe` — Erstinstallation für Windows x64.
+- `LinguaLoop-v1.2.0-win-x64.zip` — Paket, das der Updater für künftige Updates verwendet.
 
-Der Installer ist für neue Nutzer. Das ZIP lädt der automatische Updater bei späteren Versionen herunter. Beide Dateien sind zusammen etwa 238 MB groß. Der Quellcode wird nicht im Release-Repository abgelegt.
+## Schritte
 
-## Fertige lokale Dateien
+1. Öffne [GitHub Releases](https://github.com/Tim-Dev2026/lingualoop-Versions/releases).
+2. Öffne den Entwurf **LinguaLoop 1.2.0** über **Edit**.
+3. Ziehe beide Dateien aus dem lokalen Ordner `release-assets` in den Bereich für Anhänge.
+4. Warte, bis beide Dateinamen unter **Assets** erscheinen.
+5. Klicke **Publish release**.
 
-Im Ordner `release-assets` liegen beide Dateien. Der Ordner ist mit Absicht in `.gitignore` ausgeschlossen; GitHub Releases verwaltet große Binärdateien als Assets statt im normalen Git-Verlauf.
+Der lokale Ordner ist `C:\Users\timca\Documents\GitHub\lingualoop-Versions\release-assets`. Die großen Programmdateien bleiben aus dem Git-Verlauf ausgeschlossen und werden direkt am Release angehängt.
