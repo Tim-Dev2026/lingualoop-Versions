@@ -2,22 +2,26 @@
 
 **Französisch-Vokabeln lernen – mit eigenen Wortlisten und lokalem Lernstand.**
 
-## ⬇️ LinguaLoop herunterladen
+## Windows-Download
 
-[**Installer für Windows herunterladen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/download/v1.0.0/LinguaLoop-Setup-v1.0.0.exe)
+[**LinguaLoop für Windows herunterladen**](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/latest/download/LinguaLoop-Setup-v1.1.0.exe)
 
-Der Download startet direkt. Alternativ findest du alle Dateien auf der [Release-Seite](https://github.com/Tim-Dev2026/lingualoop-Versions/releases/latest) unter **Assets**. Dort ist `LinguaLoop-Setup-v1.0.0.exe` der Installer. Die ZIP-Datei ist nur für Updates.
+Die Version 1.1.0 wird gerade vorbereitet. Der Download steht bereit, sobald der Release veröffentlicht ist. Der Installer legt Verknüpfungen für LinguaLoop und den Deinstaller an.
 
-### Installation in 3 Schritten
+## Was ist neu in 1.1.0?
 
-1. Klicke oben auf **Installer für Windows herunterladen**.
-2. Öffne die heruntergeladene Datei `LinguaLoop-Setup-v1.0.0.exe`.
-3. Folge dem Setup. Danach kannst du LinguaLoop über die Verknüpfung auf dem Desktop starten.
+- Gemeinsame Vokabel-Presets im eigenen Tab. Jeder kopiert nur die Sets, die er selbst lernen möchte.
+- Neue Installationen starten mit einer leeren persönlichen Vokabelliste.
+- Vokabeln und Lernstand bleiben lokal auf dem PC.
 
 ## Updates
 
-LinguaLoop prüft beim Start und – falls im Setup aktiviert – beim Windows-Start auf neue Versionen. Vokabeln und Lernfortschritt bleiben lokal auf dem jeweiligen PC.
+Die App prüft beim Start und – wenn im Setup aktiviert – beim Windows-Start auf neue Versionen. Das Update-ZIP ist als Release-Datei erforderlich.
 
-## Datenschutz
+## Veröffentlichung
 
-Dieses Repository enthält die Downloads und Versionshinweise, nicht den Quellcode der App. Persönliche Vokabeln und Lernstände werden nicht hochgeladen.
+Die zwei Dateien müssen am Release `v1.1.0` angehängt werden:
+- `LinguaLoop-Setup-v1.1.0.exe` (Windows-Installer)
+- `LinguaLoop-v1.1.0-win-x64.zip` (Updater-Paket)
+
+Die Anleitung dazu steht in [RELEASE-ANLEITUNG.md](RELEASE-ANLEITUNG.md).
